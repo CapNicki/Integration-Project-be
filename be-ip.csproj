@@ -8,15 +8,29 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="be-ip-common\**" />
+    <Compile Remove="be-ip-repository\**" />
+    <Content Remove="be-ip-common\**" />
+    <Content Remove="be-ip-repository\**" />
+    <EmbeddedResource Remove="be-ip-common\**" />
+    <EmbeddedResource Remove="be-ip-repository\**" />
+    <None Remove="be-ip-common\**" />
+    <None Remove="be-ip-repository\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Identity" Version="1.12.0" />
     <PackageReference Include="Azure.Messaging.ServiceBus" Version="7.18.1" />
     <PackageReference Include="Azure.Security.KeyVault.Secrets" Version="4.6.0" />
+    <PackageReference Include="Azure.Storage.Blobs" Version="12.21.2" />
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.8" />
     <PackageReference Include="Microsoft.Azure.Cosmos" Version="3.42.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\be-ip-repository\be-ip-repository.csproj" />
+    <ProjectReference Include="be-ip-repository\be-ip-repository.csproj" />
   </ItemGroup>
+
 
 </Project>

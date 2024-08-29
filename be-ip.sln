@@ -6,11 +6,12 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "be-ip", "be-ip.csproj", "{EE002E03-2BCC-4E62-B0AC-1B9CFB37B74B}"
 	ProjectSection(ProjectDependencies) = postProject
 		{0C039E01-0BBF-4C9D-8DCB-0B9F9452AD3E} = {0C039E01-0BBF-4C9D-8DCB-0B9F9452AD3E}
+		{3D485307-C683-4EDC-B4CA-B9F0191F7482} = {3D485307-C683-4EDC-B4CA-B9F0191F7482}
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "be-ip-repository", "..\be-ip-repository\be-ip-repository.csproj", "{3D485307-C683-4EDC-B4CA-B9F0191F7482}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "be-ip-repository", "be-ip-repository\be-ip-repository.csproj", "{3D485307-C683-4EDC-B4CA-B9F0191F7482}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "be-ip-common", "..\be-ip-common\be-ip-common.csproj", "{0C039E01-0BBF-4C9D-8DCB-0B9F9452AD3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "be-ip-common", "be-ip-common\be-ip-common.csproj", "{0C039E01-0BBF-4C9D-8DCB-0B9F9452AD3E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
