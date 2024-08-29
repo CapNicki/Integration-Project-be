@@ -1,0 +1,363 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE002E03-2BCC-4E62-B0AC-1B9CFB37B74B}|be-ip\\be-ip.csproj|c:\\users\\nberlin\\documents\\repos\\integrationproject\\be-ip\\be-ip\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{EE002E03-2BCC-4E62-B0AC-1B9CFB37B74B}|be-ip\\be-ip.csproj|solutionrelative:be-ip\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE002E03-2BCC-4E62-B0AC-1B9CFB37B74B}|be-ip\\be-ip.csproj|c:\\users\\nberlin\\documents\\repos\\integrationproject\\be-ip\\be-ip\\be-ip.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EE002E03-2BCC-4E62-B0AC-1B9CFB37B74B}|be-ip\\be-ip.csproj|solutionrelative:be-ip\\be-ip.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\be-ip.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:be-ip.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\nberlin\\documents\\repos\\integrationproject\\be-ip-repository\\cosmos\\cosmosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\nberlin\\documents\\repos\\integrationproject\\be-ip-common\\keyvault\\settings\\keyvaultsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\nberlin\\documents\\repos\\integrationproject\\be-ip-repository\\extensions\\feediteratorextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\nberlin\\documents\\repos\\integrationproject\\be-ip-repository\\blob\\blobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\nberlin\\documents\\repos\\integrationproject\\be-ip-common\\keyvault\\keyvaultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\nberlin\\documents\\repos\\integrationproject\\be-ip-repository\\cosmos\\settings\\cosmossettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\nberlin\\documents\\repos\\integrationproject\\be-ip-repository\\blob\\settings\\blobsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\nberlin\\documents\\repos\\integrationproject\\be-ip-common\\keyvault\\interface\\ikeyvaultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\nberlin\\documents\\repos\\integrationproject\\be-ip-repository\\be-ip-repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\nberlin\\documents\\repos\\integrationproject\\be-ip-repository\\blob\\interface\\iblobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\nberlin\\documents\\repos\\integrationproject\\be-ip-repository\\cosmos\\entities\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\nberlin\\documents\\repos\\integrationproject\\be-ip-repository\\cosmos\\interfaces\\icosmosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\Product\\Classes\\BaseProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Product\\Classes\\BaseProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\Checkout\\CheckoutController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Checkout\\CheckoutController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\Checkout\\Classes\\CheckoutPost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Checkout\\Classes\\CheckoutPost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\Checkout\\Settings\\ServiceBusSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Checkout\\Settings\\ServiceBusSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\Product\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Product\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseProduct.cs",
+              "DocumentMoniker": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\Product\\Classes\\BaseProduct.cs",
+              "RelativeDocumentMoniker": "Product\\Classes\\BaseProduct.cs",
+              "ToolTip": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\Product\\Classes\\BaseProduct.cs",
+              "RelativeToolTip": "Product\\Classes\\BaseProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:37:01.518Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CosmosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\be-ip-repository\\Cosmos\\CosmosRepository.cs",
+              "RelativeDocumentMoniker": "be-ip-repository\\Cosmos\\CosmosRepository.cs",
+              "ToolTip": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\be-ip-repository\\Cosmos\\CosmosRepository.cs",
+              "RelativeToolTip": "be-ip-repository\\Cosmos\\CosmosRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T09:28:41.684Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\be-ip\\.gitignore",
+              "RelativeDocumentMoniker": "be-ip\\.gitignore",
+              "ToolTip": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\be-ip\\.gitignore",
+              "RelativeToolTip": "be-ip\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-29T13:37:19.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "be-ip",
+              "DocumentMoniker": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\be-ip\\be-ip.csproj",
+              "RelativeDocumentMoniker": "be-ip\\be-ip.csproj",
+              "ToolTip": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\be-ip\\be-ip.csproj",
+              "RelativeToolTip": "be-ip\\be-ip.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-29T13:33:18.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KeyVaultSettings.cs",
+              "DocumentMoniker": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\be-ip-common\\Keyvault\\Settings\\KeyVaultSettings.cs",
+              "RelativeDocumentMoniker": "be-ip-common\\Keyvault\\Settings\\KeyVaultSettings.cs",
+              "ToolTip": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\be-ip-common\\Keyvault\\Settings\\KeyVaultSettings.cs",
+              "RelativeToolTip": "be-ip-common\\Keyvault\\Settings\\KeyVaultSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:16:37.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CheckoutController.cs",
+              "DocumentMoniker": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\Checkout\\CheckoutController.cs",
+              "RelativeDocumentMoniker": "Checkout\\CheckoutController.cs",
+              "ToolTip": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\Checkout\\CheckoutController.cs",
+              "RelativeToolTip": "Checkout\\CheckoutController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:56:51.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FeedIteratorExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\be-ip-repository\\Extensions\\FeedIteratorExtensions.cs",
+              "RelativeDocumentMoniker": "be-ip-repository\\Extensions\\FeedIteratorExtensions.cs",
+              "ToolTip": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\be-ip-repository\\Extensions\\FeedIteratorExtensions.cs",
+              "RelativeToolTip": "be-ip-repository\\Extensions\\FeedIteratorExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:21:16.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwBUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-29T08:06:55.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CheckoutPost.cs",
+              "DocumentMoniker": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\Checkout\\Classes\\CheckoutPost.cs",
+              "RelativeDocumentMoniker": "Checkout\\Classes\\CheckoutPost.cs",
+              "ToolTip": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\Checkout\\Classes\\CheckoutPost.cs",
+              "RelativeToolTip": "Checkout\\Classes\\CheckoutPost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:59:29.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ServiceBusSettings.cs",
+              "DocumentMoniker": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\Checkout\\Settings\\ServiceBusSettings.cs",
+              "RelativeDocumentMoniker": "Checkout\\Settings\\ServiceBusSettings.cs",
+              "ToolTip": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\Checkout\\Settings\\ServiceBusSettings.cs",
+              "RelativeToolTip": "Checkout\\Settings\\ServiceBusSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:30:44.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlobRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\be-ip-repository\\Blob\\BlobRepository.cs",
+              "RelativeDocumentMoniker": "be-ip-repository\\Blob\\BlobRepository.cs",
+              "ToolTip": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\be-ip-repository\\Blob\\BlobRepository.cs",
+              "RelativeToolTip": "be-ip-repository\\Blob\\BlobRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T09:23:45.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "be-ip.csproj",
+              "DocumentMoniker": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\be-ip.csproj",
+              "RelativeDocumentMoniker": "be-ip.csproj",
+              "ToolTip": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\be-ip.csproj",
+              "RelativeToolTip": "be-ip.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-23T11:34:35.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwBwAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T08:48:10.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\Product\\ProductController.cs",
+              "RelativeDocumentMoniker": "Product\\ProductController.cs",
+              "ToolTip": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\Product\\ProductController.cs",
+              "RelativeToolTip": "Product\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:35:15.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KeyVaultService.cs",
+              "DocumentMoniker": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\be-ip-common\\Keyvault\\KeyVaultService.cs",
+              "RelativeDocumentMoniker": "be-ip-common\\Keyvault\\KeyVaultService.cs",
+              "ToolTip": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\be-ip-common\\Keyvault\\KeyVaultService.cs",
+              "RelativeToolTip": "be-ip-common\\Keyvault\\KeyVaultService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:09:41.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CosmosSettings.cs",
+              "DocumentMoniker": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\be-ip-repository\\Cosmos\\Settings\\CosmosSettings.cs",
+              "RelativeDocumentMoniker": "be-ip-repository\\Cosmos\\Settings\\CosmosSettings.cs",
+              "ToolTip": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\be-ip-repository\\Cosmos\\Settings\\CosmosSettings.cs",
+              "RelativeToolTip": "be-ip-repository\\Cosmos\\Settings\\CosmosSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:28:33.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BlobSettings.cs",
+              "DocumentMoniker": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\be-ip-repository\\Blob\\Settings\\BlobSettings.cs",
+              "RelativeDocumentMoniker": "be-ip-repository\\Blob\\Settings\\BlobSettings.cs",
+              "ToolTip": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\be-ip-repository\\Blob\\Settings\\BlobSettings.cs",
+              "RelativeToolTip": "be-ip-repository\\Blob\\Settings\\BlobSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:00:10.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IKeyVaultService.cs",
+              "DocumentMoniker": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\be-ip-common\\Keyvault\\Interface\\IKeyVaultService.cs",
+              "RelativeDocumentMoniker": "be-ip-common\\Keyvault\\Interface\\IKeyVaultService.cs",
+              "ToolTip": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\be-ip-common\\Keyvault\\Interface\\IKeyVaultService.cs",
+              "RelativeToolTip": "be-ip-common\\Keyvault\\Interface\\IKeyVaultService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:37:58.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "be-ip-repository.csproj",
+              "DocumentMoniker": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\be-ip-repository\\be-ip-repository.csproj",
+              "RelativeDocumentMoniker": "be-ip-repository\\be-ip-repository.csproj",
+              "ToolTip": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\be-ip-repository\\be-ip-repository.csproj",
+              "RelativeToolTip": "be-ip-repository\\be-ip-repository.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-23T09:28:15.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBlobRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\be-ip-repository\\Blob\\Interface\\IBlobRepository.cs",
+              "RelativeDocumentMoniker": "be-ip-repository\\Blob\\Interface\\IBlobRepository.cs",
+              "ToolTip": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\be-ip-repository\\Blob\\Interface\\IBlobRepository.cs",
+              "RelativeToolTip": "be-ip-repository\\Blob\\Interface\\IBlobRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T09:41:02.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductEntity.cs",
+              "DocumentMoniker": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\be-ip-repository\\Cosmos\\Entities\\ProductEntity.cs",
+              "RelativeDocumentMoniker": "be-ip-repository\\Cosmos\\Entities\\ProductEntity.cs",
+              "ToolTip": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\be-ip-repository\\Cosmos\\Entities\\ProductEntity.cs",
+              "RelativeToolTip": "be-ip-repository\\Cosmos\\Entities\\ProductEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:35:38.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICosmosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\be-ip-repository\\Cosmos\\Interfaces\\ICosmosRepository.cs",
+              "RelativeDocumentMoniker": "be-ip-repository\\Cosmos\\Interfaces\\ICosmosRepository.cs",
+              "ToolTip": "C:\\Users\\nberlin\\Documents\\Repos\\IntegrationProject\\be-ip\\be-ip-repository\\Cosmos\\Interfaces\\ICosmosRepository.cs",
+              "RelativeToolTip": "be-ip-repository\\Cosmos\\Interfaces\\ICosmosRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:32:24.133Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

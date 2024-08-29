@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "be-ip", "be-ip.csproj", "{EE002E03-2BCC-4E62-B0AC-1B9CFB37B74B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "be-ip", ".\be-ip\be-ip.csproj", "{EE002E03-2BCC-4E62-B0AC-1B9CFB37B74B}"
 	ProjectSection(ProjectDependencies) = postProject
 		{0C039E01-0BBF-4C9D-8DCB-0B9F9452AD3E} = {0C039E01-0BBF-4C9D-8DCB-0B9F9452AD3E}
 		{3D485307-C683-4EDC-B4CA-B9F0191F7482} = {3D485307-C683-4EDC-B4CA-B9F0191F7482}
