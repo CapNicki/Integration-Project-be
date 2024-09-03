@@ -2,7 +2,6 @@
 using be_ip.Product.Classes;
 using be_ip_repository.Blob.Interface;
 using be_ip_repository.Cosmos.Interfaces;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace be_ip.Product

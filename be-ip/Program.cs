@@ -1,13 +1,5 @@
-using be_ip.Checkout.Settings;
-using be_ip_common.Keyvault;
-using be_ip_common.Keyvault.Interface;
-using be_ip_common.Keyvault.Settings;
-using be_ip_repository.Blob;
-using be_ip_repository.Blob.Interface;
-using be_ip_repository.Blob.Settings;
-using be_ip_repository.Cosmos;
-using be_ip_repository.Cosmos.Interfaces;
-using be_ip_repository.Cosmos.Settings;
+using be_ip_repository;
+using be_ip_repository.ServiceBus.Settings;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 
@@ -20,14 +12,10 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.Configure<BlobSettings>(builder.Configuration.GetSection("BlobSettings"));
-builder.Services.Configure<KeyVaultSettings>(builder.Configuration.GetSection("KeyVaultSettings"));
-builder.Services.Configure<CosmosSettings>(builder.Configuration.GetSection("CosmosSettings"));
-builder.Services.Configure<ServiceBusSettings>(builder.Configuration.GetSection("ServiceBusSettings"));
+var configuration = builder.Configuration;
 
-builder.Services.AddSingleton<IKeyVaultService, KeyVaultService>();
-builder.Services.AddSingleton<ICosmosRepository, CosmosRepository>();
-builder.Services.AddSingleton<IBlobRepository, BlobRepository>();
+builder.Services.InjectCommon(configuration);
+builder.Services.InjectRepositories(configuration);
 
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
         .AddJwtBearer(options =>
