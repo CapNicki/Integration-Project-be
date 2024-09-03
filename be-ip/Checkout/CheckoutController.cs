@@ -17,7 +17,6 @@ namespace be_ip.Checkout
         [HttpPost("api/checkout")]
         public async Task<CheckoutPost> PostCheckout(CheckoutPost req)
         {
-            
             await _serviceBusRepository.SendAsync(req);
 
             var message = await _serviceBusRepository.ReceiveAsync();

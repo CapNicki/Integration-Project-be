@@ -3,7 +3,7 @@ using be_ip_common.Keyvault.Interface;
 using be_ip_common.Keyvault.Settings;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-namespace be_ip_repository
+namespace be_ip_common
 {
     public static class DependencyInjection
     {
