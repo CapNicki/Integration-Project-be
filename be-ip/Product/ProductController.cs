@@ -1,13 +1,13 @@
-﻿
-using be_ip.Product.Classes;
+﻿using be_ip.Product.Classes;
 using be_ip_repository.Blob.Interface;
 using be_ip_repository.Cosmos.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace be_ip.Product
 {
     [ApiController]
-    //[Authorize]
+    [Authorize]
     public class ProductController : ControllerBase
     {
         private readonly ICosmosRepository _cosmosRepository;
@@ -34,7 +34,7 @@ namespace be_ip.Product
             }).ToList(); 
         }
 
-        //[Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin")]
         [HttpGet("api/products/{id}")]
         public async Task<BaseProduct> GetProduct(string id)
         {
@@ -49,5 +49,5 @@ namespace be_ip.Product
                 PictureUrl = _blobRepository.GetSasUrlForPicture("phoneish.webp")
             };
         }
-    }
+    }   
 }

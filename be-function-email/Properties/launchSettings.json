@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "be_function_email": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7019",
+      "launchBrowser": false
+    }
+  }
+}

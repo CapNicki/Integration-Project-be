@@ -13,8 +13,6 @@ namespace be_ip_common
 
             services.AddSingleton<IKeyVaultService, KeyVaultService>();
 
-
-
             return services;
         }
     }

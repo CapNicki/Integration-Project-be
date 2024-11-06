@@ -6,7 +6,7 @@ using be_ip_repository.Blob.Interface;
 using be_ip_repository.Blob.Settings;
 using Microsoft.Extensions.Options;
 
-namespace be_ip_repository.Blob
+namespace be_ip_repository.Blob    
 {
     public class BlobRepository : IBlobRepository
     {
@@ -22,7 +22,7 @@ namespace be_ip_repository.Blob
         {
             _settings = blobSettings.Value;
 
-            _keyVaultService = keyVaultService;
+            _keyVaultService = keyVaultService; 
             _storageAccountKey = _keyVaultService.GetSecret(_settings.BlobStorageKeyName);
 
             var credential = new DefaultAzureCredential();
